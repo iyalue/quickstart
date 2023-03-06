@@ -1,4 +1,4 @@
-# Uffizzi Quickstart (~ 1 minute)
+# Uffizzi Quickstart (~ 1 minute)1
 
 Go from pull request to Uffizzi Preview Environment in less than one minute...
 
